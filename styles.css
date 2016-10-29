@@ -1,0 +1,71 @@
+body{
+	font-family: Georgia;
+    font-size: 100%;
+    line-height: 1.75em;
+    margin-top: 0px;
+}
+li{
+	display: inline-block;
+	margin: 0px;
+}
+a{
+	text-decoration: none;
+}
+.uno{
+	
+	position: relative;
+}
+.dos{
+	
+	position: relative;
+}
+.tres{
+	
+	position: relative;
+}
+.about1{
+	
+	position: absolute;
+  	left: 0px;
+  	width: 200px;
+}
+.about2{
+	
+	margin-left: 200px;
+
+}
+.experience1{
+	
+	position: absolute;
+  	left: 0px;
+  	width: 200px;
+}
+.experience2{
+	
+	margin-left: 200px;
+}
+.education{
+	
+	position: absolute;
+  	left: 0px;
+  	width: 200px;
+}
+.education2{
+	
+	margin-left: 200px;
+}
+.contacto{
+	
+	position: absolute;
+  	left: 0px;
+  	width: 200px;
+}
+.contacto2{
+	
+	margin-left: 200px;
+}
+html{
+    background-color: #FBEEE6;
+    margin-left: 15%;
+    margin-right: 15%;
+}
